@@ -4,8 +4,8 @@ from pygame.locals import *
 import sys
 from Knight import knight
 from Arrow import arrow
-from simpleText import simpleText
-from background import background
+from Text import simpleText
+from Background import background
 import math
 
 # 2 - Define constants
